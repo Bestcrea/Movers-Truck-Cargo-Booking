@@ -1,0 +1,18 @@
+.dashboardt .card .card-body{
+	height: 150px;
+}
+.dashboardt .static-widget h6 {
+    font-size: 16px;
+    font-weight: 500;
+    color: #6362e7;
+}
+.dashboardt .static-widget h4 {
+    font-size: 26px;
+    font-weight: 700;
+}
+.mytable img{
+	border-radius: 16px;
+    border: 4px solid #ffffff;
+    box-shadow: 2px 7px 16px rgb(0 0 0 / 15%);
+}
+/*# sourceMappingURL=color-1.css.map */
